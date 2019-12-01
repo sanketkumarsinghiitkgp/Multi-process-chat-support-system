@@ -1,5 +1,7 @@
 ## Usage
 
+Use python 3.6 or above only.
+
 1. python server.py
 
 2. In  a  separate terminal : python client.py
