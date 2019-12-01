@@ -16,6 +16,8 @@
 
 6. If a reply is not answered by the bot... The server terminal prompts the human support to give the reply. When the client presses Enter key after this reply has been sent by the human support, the reply appears on the client terminal screen.
 
+7. Multiple clients can connect to the server using a separate username in a similar way
+
 ## Tools used
 
 -python
